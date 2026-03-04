@@ -1,6 +1,6 @@
 # BloFin Skills Hub
 
-AI agent skills for [BloFin](https://blofin.com) crypto exchange, powered by [blofin-mcp](https://www.npmjs.com/package/blofin-mcp).
+AI agent skills for [BloFin](https://blofin.com), powered by [blofin-mcp](https://www.npmjs.com/package/blofin-mcp).
 
 ## Install
 
