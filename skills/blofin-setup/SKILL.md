@@ -2,7 +2,7 @@
 name: blofin-setup
 description: "Set up and configure the BloFin MCP server. Guides through API key creation, MCP configuration, connection verification, and switching between demo/production environments."
 version: 1.0.0
-license: MIT
+license: Apache-2.0
 metadata:
   openclaw:
     emoji: "🔧"

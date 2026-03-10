@@ -2,7 +2,7 @@
 name: blofin-portfolio-analyst
 description: "Analyze your BloFin trading portfolio — PnL breakdown, trade history, fill analysis, performance metrics, and generate reports. Requires authenticated API access."
 version: 1.0.0
-license: MIT
+license: Apache-2.0
 metadata:
   openclaw:
     emoji: "📈"

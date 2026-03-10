@@ -2,7 +2,7 @@
 name: blofin-asset-manager
 description: "Manage BloFin assets — check balances across account types, transfer funds between accounts (funding, futures, copy trading, earn, spot), and track deposit/withdrawal history. Requires authenticated API access with TRANSFER permission."
 version: 1.0.0
-license: MIT
+license: Apache-2.0
 metadata:
   openclaw:
     emoji: "🏦"

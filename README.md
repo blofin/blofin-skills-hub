@@ -53,7 +53,7 @@ We welcome community contributions! To add your own skill:
 name: your-skill-name
 description: "What it does"
 version: 1.0.0
-license: MIT
+license: Apache-2.0
 metadata:
   openclaw:
     emoji: "🔧"
@@ -81,4 +81,4 @@ auto_activate:
 
 ## License
 
-MIT
+Apache License 2.0

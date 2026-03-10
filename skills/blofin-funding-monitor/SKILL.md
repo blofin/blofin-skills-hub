@@ -2,7 +2,7 @@
 name: blofin-funding-monitor
 description: "Monitor BloFin perpetual swap funding rates, analyze market sentiment through funding data, and track funding rate trends across instruments."
 version: 1.0.0
-license: MIT
+license: Apache-2.0
 metadata:
   openclaw:
     emoji: "📡"

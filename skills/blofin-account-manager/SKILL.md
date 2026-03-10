@@ -2,7 +2,7 @@
 name: blofin-account-manager
 description: "Manage BloFin futures account — check balances, view positions, configure leverage, margin mode, and position mode. Requires authenticated BloFin API access."
 version: 1.0.0
-license: MIT
+license: Apache-2.0
 metadata:
   openclaw:
     emoji: "👤"
