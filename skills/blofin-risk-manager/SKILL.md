@@ -2,7 +2,7 @@
 name: blofin-risk-manager
 description: "Risk management for BloFin trading — position sizing, leverage assessment, liquidation monitoring, risk scoring, and exposure analysis. Helps maintain disciplined trading within user-defined risk parameters."
 version: 1.0.0
-license: MIT
+license: Apache-2.0
 metadata:
   openclaw:
     emoji: "🛡️"

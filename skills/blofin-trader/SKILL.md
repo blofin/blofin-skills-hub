@@ -2,7 +2,7 @@
 name: blofin-trader
 description: "Execute trades on BloFin exchange — place orders (market, limit, post_only, fok, ioc), cancel orders, batch operations, close positions, and manage TP/SL and algo/trigger orders. Requires authenticated API access with TRADE permission."
 version: 1.0.0
-license: MIT
+license: Apache-2.0
 metadata:
   openclaw:
     emoji: "💹"

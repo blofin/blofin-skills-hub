@@ -2,7 +2,7 @@
 name: blofin-copy-trading
 description: "Manage BloFin copy trading — view copy trading account, positions, orders, and lead trader operations. Supports both follower and lead trader workflows. Requires authenticated API access."
 version: 1.0.0
-license: MIT
+license: Apache-2.0
 metadata:
   openclaw:
     emoji: "👥"

@@ -2,7 +2,7 @@
 name: blofin-market-data
 description: "Retrieve real-time market data from BloFin exchange — prices, orderbook depth, candlestick charts, trades, mark prices, and funding rates. No authentication required."
 version: 1.0.0
-license: MIT
+license: Apache-2.0
 metadata:
   openclaw:
     emoji: "📊"
