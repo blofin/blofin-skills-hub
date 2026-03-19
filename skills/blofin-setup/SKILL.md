@@ -37,7 +37,7 @@ npm install -g blofin-mcp
 Or install locally:
 
 ```bash
-git clone https://github.com/your-org/blofin-mcp.git
+git clone https://github.com/blofin/blofin-mcp.git
 cd blofin-mcp
 npm install
 npm run build
